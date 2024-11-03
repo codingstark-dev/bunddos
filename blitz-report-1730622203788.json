@@ -1,0 +1,8 @@
+{
+  "totalRequests": 1000,
+  "totalTimeMs": 7940,
+  "requestsPerSecond": 125.95,
+  "successfulRequests": 1000,
+  "failedRequests": 0,
+  "timestamp": 1730622203788
+}
